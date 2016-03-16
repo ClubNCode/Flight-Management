@@ -1,4 +1,4 @@
-package com.raj.flight.service;
+package com.rohit.flight.service;
 
 import java.util.List;
 
