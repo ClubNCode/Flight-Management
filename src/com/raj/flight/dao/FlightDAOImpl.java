@@ -1,4 +1,4 @@
-package com.raj.flight.dao;
+package com.rohit.flight.dao;
 
 import java.math.BigDecimal;
 import java.util.Iterator;
