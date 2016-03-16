@@ -16,7 +16,7 @@
 
 	<mvc:annotation-driven />
 
-	<context:component-scan base-package="com.raj.flight" />
+	<context:component-scan base-package="com.rohit.flight" />
 	<tx:annotation-driven transaction-manager="hibernateTransactionManager" />
 
 	<bean
