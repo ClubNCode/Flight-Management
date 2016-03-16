@@ -1,4 +1,4 @@
-package com.raj.flight.bean;
+package com.rohit.flight.bean;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
